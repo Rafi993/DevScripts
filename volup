@@ -1,4 +1,3 @@
 #!/bin/sh
 
-amixer -q sset Master "${$1}%+"
-
+amixer -q sset Master "$1"%+
