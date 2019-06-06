@@ -15,3 +15,4 @@ Simple scripts to make your devs using Linux
 | volup      | Increase volume                                |
 | voldown    | Decrease volume                                |
 | network    | Ping till user is online                       |
+| loc        | Count number of lines in a git repo            |
