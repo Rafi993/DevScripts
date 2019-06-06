@@ -14,3 +14,4 @@ Simple scripts to make your devs using Linux
 | vol        | Change volume                                  |
 | volup      | Increase volume                                |
 | voldown    | Decrease volume                                |
+| network    | Ping till user is online                       |
