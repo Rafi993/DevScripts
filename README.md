@@ -20,6 +20,7 @@ Simple scripts to make your devs using Linux
 ### Aliases
 
 Aliases created using set_alias
+
 | Alias     | Description                                    |
 | --------- | ---------------------------------------------- |
 | g         | git                                            |
