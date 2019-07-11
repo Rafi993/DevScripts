@@ -1,6 +1,7 @@
 alias g="git"
 alias gb="git branch"
 alias gbd="git branch -D"
+alias gbr="git branch | grep -v "master" | xargs git branch -D"
 alias gc="git checkout"
 alias gl="git log"
 alias gps="git push"
