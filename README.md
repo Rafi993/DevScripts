@@ -28,6 +28,7 @@ Aliases created using set_alias
 | gbd       | Deleting branch                                |
 | gc        | Checkout branch                                |
 | gl        | git log                                        |
+| gle       | Enhanced git log                               |
 | gps       | git push                                       |
 | gp        | git pull                                       |
 | gp        | git pull                                       |
