@@ -35,4 +35,4 @@ Aliases created using set_alias
 | gbr       | Deletes all branch except master               |
 | rp        | Restart postgres                               |
 | rn        | Restart network manager                        |
-
+| gauthors  | Number of commits per author excluding merges  |
