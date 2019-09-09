@@ -16,6 +16,7 @@ Simple scripts to make your devs using Linux
 | network    | Ping till user is online                       |
 | loc        | Count number of lines in a git repo            |
 | set_alias  | Sets commonly used alias                       |
+| find_ip    | Gets your current IP with location data        |
 
 ### Aliases
 
