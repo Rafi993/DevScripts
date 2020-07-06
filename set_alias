@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cat $(dirname "$0")/aliases >> .bashrc
-cat $(dirname "$0")/aliases >> .zshrc
+cat $(dirname "$0")/aliases >> $HOME/.bashrc
+cat $(dirname "$0")/aliases >> $HOME/.zshrc
