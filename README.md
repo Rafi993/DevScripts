@@ -11,6 +11,7 @@ Simple scripts to make your devs using Linux
 | set_alias      | Sets commonly used alias                       |
 | find_ip        | Gets your current IP with location data        |
 | internet_speed | Check your internet download and upload speed  |
+| reset_fork     | Reset fork with original repo                  |
 
 ### Aliases
 

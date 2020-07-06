@@ -1,0 +1,8 @@
+#!/bin/sh
+
+echo "Make you sure you have set original remote as upstream"
+
+git checkout master
+git pull upstream master
+git reset --hard upstream/master
+git push origin master --force
