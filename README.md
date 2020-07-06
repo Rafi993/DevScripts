@@ -27,7 +27,6 @@ Aliases created using set_alias
 | gle      | Enhanced git log                              |
 | gps      | git push                                      |
 | gp       | git pull                                      |
-| gp       | git pull                                      |
 | gbr      | Deletes all branch except master              |
 | rp       | Restart postgres                              |
 | rn       | Restart network manager                       |
