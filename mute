@@ -1,4 +1,0 @@
-#!/bin/sh
-
-amixer set Master mute
-
