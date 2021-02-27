@@ -29,3 +29,4 @@ Aliases created using set_alias
 | gp       | git pull                                      |
 | gbr      | Deletes all branch except master              |
 | gauthors | Number of commits per author excluding merges |
+| gm       | Commit a file changes in git                  |
