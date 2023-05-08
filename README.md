@@ -1,6 +1,6 @@
-## Dev scripts
+# Dev scripts
 
-Simple scripts to make your devs using Linux
+Collection of scripts to make your dev life easier
 
 | Script         | Description                                    |
 | ---------------| ---------------------------------------------- |
