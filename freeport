@@ -1,0 +1,19 @@
+#!/bin/bash
+
+if [ -z "$1" ]
+then
+  echo "Usage: ./freeport <port>"
+  exit 1
+fi
+
+PORT=$1
+
+pid=$(lsof -i :$PORT -t)
+if [ -z "$pid" ]
+then
+  echo "No process found running on port $PORT"
+else
+  echo "Killing process with PID $pid running on port $PORT"
+  kill -9 $pid
+  echo "Port $PORT is now free."
+fi
