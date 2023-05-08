@@ -5,7 +5,6 @@ Simple scripts to make your devs using Linux
 | Script         | Description                                    |
 | ---------------| ---------------------------------------------- |
 | s              | Squash n commits                               |
-| upgr           | List system packages that needs to be upgraded |
 | network        | Ping till user is online                       |
 | loc            | Count number of lines in a git repo            |
 | set_alias      | Sets commonly used alias                       |
