@@ -12,6 +12,7 @@ Collection of scripts to make your dev life easier
 | internet_speed | Check your internet download and upload speed  |
 | reset_fork     | Reset fork with original repo                  |
 | freeport       | Script to free a port                          |
+| transcribe     | Transcribe audio using OpenAI whisper          |
 
 ### Aliases
 

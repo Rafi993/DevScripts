@@ -1,0 +1,9 @@
+#!/bin/zsh
+
+source ~/.zshrc
+
+for audio_file in "$@"; do
+  whisper $audio_file \
+    --language English \
+    --output_dir "$(dirname "$audio_file")"
+done
